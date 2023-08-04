@@ -1,2 +1,2 @@
 # CODING-RAJA
-Showcased projects on Web Development Internship
+Projects on Web Development Internship
